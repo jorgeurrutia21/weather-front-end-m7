@@ -78,7 +78,7 @@ Estas preferencias se almacenan en Firestore y son recuperadas al iniciar sesió
 - Pinia
 - Firebase Authentication
 - Firebase Firestore
-- Bootstrap 5
+- Bootstrap
 - Open-Meteo API
 
 ---
